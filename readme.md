@@ -2,7 +2,7 @@
 
 ## Brief Project Description
 
-This repository contains files for teams to reuse when working in and with EPA Open Source projects.
+This repository contains Python classes and methods that align with the Modeling Management project's database schema. It's purpose to allow easy database access via Python objects for building and running models, as well as adding chemicals and models to the database.
 
 Also, this repository contains the link to [EPA's System Lifecycle Management Policy and Procedure](https://www.epa.gov/irmpoli8/policy-procedures-and-guidance-system-life-cycle-management-slcm) which lays out EPA's Open Source Software Policy and [EPA's Open Source Code Guidance](https://www.epa.gov/developers/open-source-software-and-epa-code-repository-requirements). 
 
